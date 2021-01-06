@@ -59,6 +59,7 @@ h1{
 .work-area{
     padding-top: 80px;
     background-color: #F6F6F6;
+    background-position-x: center;
 }
 .work-area h2{ 
     font-family: Bebas Neue;
@@ -108,5 +109,6 @@ footer{
 }
 footer img{
     width: 40px;
-    margin-left: 1%;
-}
+    margin-left: .5%;
+    margin-right: .5%;
+}   
