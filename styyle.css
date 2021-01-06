@@ -79,22 +79,12 @@ h1{
 .works img {
     width: 100%;
   }
-.container {
+.work-des {
  padding: 2px 16px;
   }
-.work-inquiry{
-  height: 600px;
-}
-.work-inquiry h2{
-  font-family: Bebas Neue;
-  font-size: 64px;
-  line-height: 64px;
-
-}
 .inquiry{
-  text-align: center;
   background-image: url(shapes/Group_33094_1.png);
-  background-size: 50%;
+  background-size: 40%;
   background-repeat: no-repeat;
   background-position-x: center;
 }
