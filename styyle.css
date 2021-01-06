@@ -76,13 +76,25 @@ h1{
     width: 20%;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   } 
-  .works img {
+.works img {
     width: 100%;
   }
-  .container {
-    padding: 2px 16px;
+.container {
+ padding: 2px 16px;
   }
-  .work-inquiry {
-    text-align: center;
-    position: relative;
-  }
+.work-inquiry{
+  height: 600px;
+}
+.work-inquiry h2{
+  font-family: Bebas Neue;
+  font-size: 64px;
+  line-height: 64px;
+
+}
+.inquiry{
+  text-align: center;
+  background-image: url(shapes/Group_33094_1.png);
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+}
