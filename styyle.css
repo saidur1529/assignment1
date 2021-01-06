@@ -3,13 +3,10 @@ body {
     margin: 0;
 }
 section {
-    height: 650px;
+    height: 700px;
 }
 .top-banner{
     background-color:  #F6F6F6 ;
-}
-.nav-bar{
-    padding-bottom: 50px;
 }
 .top-nav {
     float: right;
