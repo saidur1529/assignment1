@@ -56,6 +56,9 @@ h1{
     font-size: 16px;
     font-weight: 500;    
 }
+.link-button img {
+    width: 16px;
+}
 .work-area{
     padding-top: 80px;
     background-color: #F6F6F6;
