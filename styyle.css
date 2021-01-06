@@ -69,6 +69,7 @@ h1{
     padding-top: 80px;
     background-color: #F6F6F6;
     background-position-x: center;
+    height: 600px;
 }
 .work-area h2{ 
     font-family: Bebas Neue;
@@ -124,14 +125,15 @@ h1{
 }
 
 .experience-area {
+    padding-top: 2%;
     text-align: center;
-    height: 400px;
+    height: 420px;
+    background-color:  #F6F6F6  ;
 }
 .single-posts{
     width: 15%;
     float: left;
     margin-left: 6%;
-    padding: 1%;
     margin-right: 2%;
 }
 
