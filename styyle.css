@@ -3,7 +3,7 @@ body {
     margin: 0;
 }
 section {
-    height: 700px;
+    height: 750px;
 }
 .top-banner{
     background-color:  #F6F6F6 ;
@@ -43,7 +43,7 @@ h1{
 }
 
 .half-width img {
-    width: 100%;
+    width: 80%;
 }
 
 .link-button {
